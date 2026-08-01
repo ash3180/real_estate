@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large uncompressed model binary (compressed pipeline.pkl.gz is tracked instead)
+pipeline.pkl
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
