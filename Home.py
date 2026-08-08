@@ -22,7 +22,7 @@ with col_a:
     - **Bedrooms, Bathrooms, Balconies**
     - **Area, Furnishing & Luxury Rating**
     """)
-    st.page_link("pages/1_Price Predictor.py", label="Open Price Predictor ➡️", icon="💰")
+    st.page_link("pages/1_Price Predictor.py", label="Open Price Predictor ➡️")
 
 with col_b:
     st.warning("###  Real Estate Analytics")
@@ -33,7 +33,7 @@ with col_b:
     - **BHK Distributions & Price Ranges**
     - **Amenities & Facilities Wordcloud**
     """)
-    st.page_link("pages/2_Analysis App.py", label="Open Analytics Dashboard ➡️", icon="📊")
+    st.page_link("pages/2_Analysis App.py", label="Open Analytics Dashboard ➡️")
 
 with col_c:
     st.success("###  Apartment Recommender")
@@ -42,7 +42,7 @@ with col_c:
     - **Content-Based Similarity Engine**: Top 5 matching apartments based on features.
     - **Location Radius Search**: Discover apartment complexes within your target radius.
     """)
-    st.page_link("pages/3_Recommended Appartments.py", label="Open Recommender Engine ➡️", icon="🏢")
+    st.page_link("pages/3_Recommended Appartments.py", label="Open Recommender Engine ➡️")
 
 st.markdown("---")
 
