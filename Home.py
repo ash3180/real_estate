@@ -2,11 +2,10 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Gurgaon Real Estate Analytics & Prediction App",
-    page_icon="🏡",
     layout="wide"
 )
 
-st.title("🏡 Gurgaon Real Estate Analytics & Recommendation Portal")
+st.title(" Gurgaon Real Estate Analytics & Recommendation Portal")
 
 st.markdown("---")
 
