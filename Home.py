@@ -7,23 +7,6 @@ st.set_page_config(
 )
 
 st.title("🏡 Gurgaon Real Estate Analytics & Recommendation Portal")
-# st.markdown("### An End-to-End Machine Learning & Analytics Solution for Property Valuation")
-
-# st.markdown("---")
-
-# st.markdown("""
-# Welcome to the **Gurgaon Real Estate Web Platform**. This application offers comprehensive data analytics, 
-# machine learning-powered price valuation, and intelligent property recommendation engines tailored specifically for Gurgaon's residential market.
-# """)
-
-# col1, col2, col3 = st.columns(3)
-
-# with col1:
-#     st.metric(label="📊 Sectors Analyzed", value="100+", delta="Coverage")
-# with col2:
-#     st.metric(label="💰 ML Prediction Model", value="Random Forest", delta="Log-Transformed")
-# with col3:
-#     st.metric(label="🏢 Recommender System", value="Content-Based", delta="Cosine Similarity")
 
 st.markdown("---")
 
